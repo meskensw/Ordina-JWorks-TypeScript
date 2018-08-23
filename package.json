@@ -1,0 +1,26 @@
+{
+  "name": "ordina-jworks-typescript",
+  "version": "1.0.0",
+  "description": "typescript excercise",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.0.1"
+  },
+  "scripts": {
+    "test": "npm i gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meskensw/Ordina-JWorks-TypeScript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Wout",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meskensw/Ordina-JWorks-TypeScript/issues"
+  },
+  "homepage": "https://github.com/meskensw/Ordina-JWorks-TypeScript#readme"
+}
